@@ -1,0 +1,27 @@
+> ls -      listing the source   
+
+> cd -      *not a command change directory
+
+> pwd-      print working directory
+
+> cat-      used to print the content of a file
+
+> touch-    used to create a file
+
+> head,tail-  similar to cat
+
+> nano,gedit,vi-editor's of linux (like notepad)
+
+> chmod,chown-used to change file permissions
+
+> grep (it is itself a tool) - used to search plain text datasets and lot more
+
+> mkdir-    used for creating a directory 
+
+> which-    used to find/loacate a file in a directory or its subdirectories 
+
+> Find -    tool .. justifies its name
+
+> cp or mv- used for copying and moving a file 
+
+> rm, rmdir- used for deleting a file 
